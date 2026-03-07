@@ -41,8 +41,6 @@ The page is divided into clearly labeled sections. Use the **navigation bar** at
 | **Contact** | Ways to get in touch |
 | **Chatbot** | An interactive assistant you can talk to about my background |
 
-> 💡 On mobile, use the hamburger menu (☰) to access navigation links.
-
 ---
 
 ## Features
