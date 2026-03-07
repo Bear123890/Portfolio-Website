@@ -17,7 +17,6 @@
 - [How the Chatbot Was Implemented](#how-the-chatbot-was-implemented)
 - [How the Downloadable Resume Works](#how-the-downloadable-resume-works)
 - [How the QR Code Works](#how-the-qr-code-works)
-- [How to Deploy](#how-to-deploy)
 - [File Structure](#file-structure)
 
 ---
